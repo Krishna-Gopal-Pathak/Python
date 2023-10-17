@@ -20,8 +20,8 @@ thisdict = {
 print(thisdict["brand"])
 ```
 <b>Output: Ford</b>
-- Dictionaries cannot have two items with the same key. Duplicate values will overwrite existing values
 ```
+# No duplicate members. Dictionaries cannot have two items with the same key. Duplicate values will overwrite existing values
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
