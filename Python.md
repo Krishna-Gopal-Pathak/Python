@@ -45,6 +45,6 @@ print(len(thisdict))
 ```
 <b>
 Output:
-{'brand': 'Ford', 'model': 'Mustang', 'year': 2020}
-3
+<p>{'brand': 'Ford', 'model': 'Mustang', 'year': 2020}</p>
+<p>3</p>
 </b>
