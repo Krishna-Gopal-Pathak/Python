@@ -32,3 +32,19 @@ print(thisdict)
 ```
 <b>Output: {'brand': 'Ford', 'model': 'Mustang', 'year': 2020}</b>
 
+# Dictionary Length
+```
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+  "year": 2020
+}
+print(thisdict)
+print(len(thisdict))
+```
+<b>
+Output:
+{'brand': 'Ford', 'model': 'Mustang', 'year': 2020}
+3
+</b>
