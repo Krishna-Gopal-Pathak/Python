@@ -10,7 +10,7 @@ thisdict = {
 print(thisdict)
 ```
 <b>Output: {'brand': 'Ford', 'model': 'Mustang', 'year': 1964}</b>
-##
+<p
 ```
 thisdict = {
   "brand": "Ford",
