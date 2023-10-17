@@ -18,7 +18,6 @@ thisdict = {
 }
 print(thisdict["brand"])
 ```
-```
-Ford
-```
+<b>Output: Ford</b>
+
 
